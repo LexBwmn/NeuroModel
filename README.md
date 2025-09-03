@@ -1,2 +1,2 @@
-NeuroModel - 2025 Version - Alexa
+NeuroModel - 2025 Version - 
 **WILL BE UPDATED SOON**
