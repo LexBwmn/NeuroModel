@@ -16,7 +16,7 @@ This license grants users the right to **Share** and **Adapt** this work for **n
 
 This work is an **adaptation** (containing custom annotations, models, etc.) derived from an original CC BY 4.0 source. You must credit both the original source and this adaptation.
 
-* **This Adaptation (CC BY-NC 4.0):** Created by ** Alexa Bowman**
+* **This Adaptation (CC BY-NC 4.0):** Created by **Alexa Bowman**
 * **Original Source (CC BY 4.0):** **BRISC 2025 Dataset** available at **https://www.kaggle.com/datasets/briscdataset/brisc2025**
 
 ---
